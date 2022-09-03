@@ -1,0 +1,32 @@
+Handy links for development:
+
+http://stackoverflow.com/
+https://github.com/
+http://jaredthenerd.com/2013/05/What-Makes-A-Good-Developer/
+http://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/
+https://codequizzes.wordpress.com/2013/04/28/deliberate-programming-practice/
+https://github.com/kamranahmedse/developer-roadmap
+
+Pomodoro technique:
+25 minutes - 5 minutes
+25 minutes - 5 minutes
+25 minutes - 5 minutes
+25 minutes - 15-30 minutes
+
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+http://tomato-timer.com/#
+
+https://markmanson.net/do-something
+https://medium.freecodecamp.org/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje
+https://www.keybr.com/
+https://monkeytype.com/
+
+https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
+https://xyproblem.info/
+https://stackoverflow.com/help/how-to-ask
+https://slash7.com/2006/12/22/vampires/
+
+https://devdocs.io
+https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/
+
+<!-- I am a html comment -->
